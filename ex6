@@ -1,3 +1,11 @@
+sizeof union=32
+sizeof structure=40
+
+
+
+
+
+
 
 sizeof union=32 
 sizeof strutur=40
